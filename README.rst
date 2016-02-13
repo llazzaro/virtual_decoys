@@ -18,15 +18,7 @@ in silico decoy generator algorithm for use in virtual docking
 * Free software: ISC license
 * Documentation: https://virtual_decoys.readthedocs.org.
 
-Features
+Introduction
 --------
 
-* TODO
-
-Credits
----------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+Based on the work of the paper "Virtual Decoy Sets for Molecular Docking Benchmarks" by Izhar Wallach and Ryan Lilien

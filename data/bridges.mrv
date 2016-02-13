@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<cml>
+<MDocument>
+  <MChemicalStruct>
+    <molecule molID="m1">
+      <atomArray
+          atomID="a1 a2 a3 a4 a5 a6 a7 a8"
+          elementType="I I I I I C I I"
+          x2="0.77 -0.77 10.669999999999998 9.129999999999999 6.65500020980835 4.179999828338623 5.513678950166659 2.8463207065105873"
+          y2="0.0 0.0 0.0 0.0 -4.289999961853027 3.134999990463257 3.904999990463257 3.9049999904632573"
+          />
+      <bondArray>
+        <bond atomRefs2="a1 a2" order="1" />
+        <bond atomRefs2="a3 a4" order="2" />
+        <bond atomRefs2="a6 a7" order="1" />
+        <bond atomRefs2="a6 a8" order="1" />
+      </bondArray>
+    </molecule>
+  </MChemicalStruct>
+</MDocument>
+</cml>
